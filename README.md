@@ -24,7 +24,7 @@ keep updating...
 6. [实习｜腾讯 算法 机器学习 实习面经，挂了捞起来继续面](https://zhuanlan.zhihu.com/p/73153825)
 7. [2019秋招｜算法/机器学习，春招+秋招个人多厂面经分享](https://zhuanlan.zhihu.com/p/46596845)
 
-#### 杂乱博客
+#### 杂乱资料：博客、专栏etc.
 1. [从一道数学题到GBDT原理的部分推导](https://zhuanlan.zhihu.com/p/76002032)
 2. [ID3、C4.5、CART、随机森林、bagging、boosting、Adaboost、GBDT、xgboost算法总结](https://zhuanlan.zhihu.com/p/34534004)
 3. [BAT机器学习面试1000题（736~740题）](https://zhuanlan.zhihu.com/p/52882004)
