@@ -8,7 +8,6 @@ keep updating...
 
 
 ## NLP/ML面试各类资料
-### GitHub
 #### 复习资料
 1. [NLP-LOVE/ML-NLP](https://github.com/NLP-LOVE/ML-NLP)：NLP笔记
 2. [scutan90/DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions)：深度学习500问
@@ -23,6 +22,7 @@ keep updating...
 5. [春招｜网易游戏&腾讯微信事业部 人工智能机器学习 面经](https://zhuanlan.zhihu.com/p/59259010)
 6. [实习｜腾讯 算法 机器学习 实习面经，挂了捞起来继续面](https://zhuanlan.zhihu.com/p/73153825)
 7. [2019秋招｜算法/机器学习，春招+秋招个人多厂面经分享](https://zhuanlan.zhihu.com/p/46596845)
+8. [2019校招｜算法面经+春秋招总结（含BAT TM W等）](https://zhuanlan.zhihu.com/p/47150666)
 
 #### 杂乱资料：博客、专栏etc.
 1. [从一道数学题到GBDT原理的部分推导](https://zhuanlan.zhihu.com/p/76002032)
@@ -30,19 +30,16 @@ keep updating...
 3. [BAT机器学习面试1000题（736~740题）](https://zhuanlan.zhihu.com/p/52882004)
 4. [【NLP/AI算法面试必备-1】学习NLP/AI，必须深入理解“神经网络及其优化问题”](https://zhuanlan.zhihu.com/p/56633392)
 5. [【NLP/AI算法面试必备-2】NLP/AI面试全记录（持续更新）](https://zhuanlan.zhihu.com/p/57153934)
-6. [2019校招｜算法面经+春秋招总结（含BAT TM W等）](https://zhuanlan.zhihu.com/p/47150666)
-7. [C++ 后台开发面试时一般考察什么？](https://www.zhihu.com/collection/439607189)
 
 
 ## 开发岗（主要针对C++后台）
-### GitHub
 #### 复习资料
 1. [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes)：Leetcode 题解、Java、C++、Python、后端面试、操作系统、计算机网络、系统设计 etc.
 2. [CyC2018/Job-Recommend](https://github.com/CyC2018/Job-Recommend)：内推信息
 3. [CyC2018/Backend-Interview-Guide](https://github.com/CyC2018/Backend-Interview-Guide)：后端面试
 
-### 知乎
 #### 面试经验
 1. [秋招｜C++面经合集（腾讯、百度、滴滴、网易互娱、字节跳动、猿辅导等14家面经）](https://zhuanlan.zhihu.com/p/91838785)
 2. [详解一道经典面试题：编辑距离](https://zhuanlan.zhihu.com/p/80682302)
+3. [C++ 后台开发面试时一般考察什么？](https://www.zhihu.com/collection/439607189)
 
