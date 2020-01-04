@@ -37,6 +37,7 @@ keep updating...
 1. [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes)：Leetcode 题解、Java、C++、Python、后端面试、操作系统、计算机网络、系统设计 etc.
 2. [CyC2018/Job-Recommend](https://github.com/CyC2018/Job-Recommend)：内推信息
 3. [CyC2018/Backend-Interview-Guide](https://github.com/CyC2018/Backend-Interview-Guide)：后端面试
+4. [Vitomy/RegularNotes](https://github.com/Vitomy/RegularNotes)：C++知识点大全
 
 #### 面试经验
 1. [秋招｜C++面经合集（腾讯、百度、滴滴、网易互娱、字节跳动、猿辅导等14家面经）](https://zhuanlan.zhihu.com/p/91838785)
